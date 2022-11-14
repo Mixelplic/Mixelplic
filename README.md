@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mixelplic
 - 👀 I’m interested in ...learning all that I can to code
-- 🌱 I’m currently learning ...how to use git
-- 💞️ I’m looking to collaborate on ...beginner-level projects
+- 🌱 I’m currently learning ...how to use JavaScript, Tailwind and React
+- 💞️ I’m looking to collaborate on ...beginner- to mid-level projects
 - 📫 How to reach me ...IM
 
 <!---
