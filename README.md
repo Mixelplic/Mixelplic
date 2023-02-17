@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mixelplic
 - 👀 I’m interested in ...learning all that I can to code
-- 🌱 I’m currently learning ...how to use JavaScript, Tailwind and React
+- 🌱 I’m currently learning ...how to use JavaScript, Tailwind, React and MongoDB
 - 💞️ I’m looking to collaborate on ...beginner- to mid-level projects
 - 📫 How to reach me ...IM
 
