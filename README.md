@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mixelplic
-- 👀 I’m interested in ...learning all that I can to code
-- 🌱I've earned certifications in UI/UX Design, Responsive Web Design, Front-end Web Development, JavaScript, React
-- 🌱 I’m a continuous learner interested in... learning how to effectively and efficiently use Angular, Tailwind, and MongoDB
-- 💞️ I’m looking to collaborate on ...beginner- to mid-level projects
-- 📫 How to reach me ...IM or check out my LinkedIn profile
+- 👀 I’m interested in UI/UX and web development
+- 🌱I've earned certifications in UI/UX Design, Responsive Web Design, Front-end Web Development, JavaScript
+- 🌱  I'm currently learning react and am interested in learning Vue, Angular, Tailwind, and MongoDB
+- 💞️ I’m looking to collaborate on entry level positions/projects
+- 📫 How to reach me ...email iwork3514@gmail.com, or check out my LinkedIn profile
 
 <!---
 Mixelplic/Mixelplic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
